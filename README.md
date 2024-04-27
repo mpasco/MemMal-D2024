@@ -6,10 +6,16 @@ More description of the new improved dataset can be found in our paper "MeMalDet
 If you use the MemMal-D2024 dataset in your work, please cite it  as follows:
 
 @article{MANIRIHO2024103864,
+
 title = {MeMalDet: A Memory analysis-based Malware Detection Framework using deep autoencoders and stacked ensemble under temporal evaluations},
+
 journal = {Computers & Security},
+
 pages = {103864},
+
 year = {2024},
-doi = {https://doi.org/10.1016/j.cose.2024.103864}
-author = {Pascal Maniriho and Abdun Naser Mahmood and Mohammad Jabed Morshed Chowdhury},
+
+doi = {https://doi.org/10.1016/j.cose.2024.103864},
+
+author = {Pascal Maniriho and Abdun Naser Mahmood and Mohammad Jabed Morshed Chowdhury}
 }
